@@ -1,2 +1,1 @@
-# 750C
-Team 750 4-Chainz's Robot Code
+750C Starstruck Code
