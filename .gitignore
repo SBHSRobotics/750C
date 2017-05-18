@@ -6,3 +6,10 @@ bin/
 
 #Ignore Eclipse project metadata
 .project
+
+#Ignore PROS project metadata and binary files
+.metadata/
+**/.metadata
+*.o
+*.bin
+*.elf
